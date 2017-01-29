@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D22113CE1E32CA3300874394"
+               BuildableName = "You Are Awesome!.app"
+               BlueprintName = "You Are Awesome!"
+               ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D22113E21E32CA3400874394"
+               BuildableName = "You Are Awesome!Tests.xctest"
+               BlueprintName = "You Are Awesome!Tests"
+               ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D22113ED1E32CA3400874394"
+               BuildableName = "You Are Awesome!UITests.xctest"
+               BlueprintName = "You Are Awesome!UITests"
+               ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D22113CE1E32CA3300874394"
+            BuildableName = "You Are Awesome!.app"
+            BlueprintName = "You Are Awesome!"
+            ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D22113CE1E32CA3300874394"
+            BuildableName = "You Are Awesome!.app"
+            BlueprintName = "You Are Awesome!"
+            ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D22113CE1E32CA3300874394"
+            BuildableName = "You Are Awesome!.app"
+            BlueprintName = "You Are Awesome!"
+            ReferencedContainer = "container:You Are Awesome!.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

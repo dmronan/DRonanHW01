@@ -505,6 +505,7 @@
 				D22113F91E32CA3400874394 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D22113FA1E32CA3400874394 /* Build configuration list for PBXNativeTarget "You Are Awesome!Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				D22113FC1E32CA3400874394 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D22113FD1E32CA3400874394 /* Build configuration list for PBXNativeTarget "You Are Awesome!UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				D22113FF1E32CA3400874394 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
